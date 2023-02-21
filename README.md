@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @VishalNayek
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning Web Development
-- 💞️ I’m looking to collaborate on Frontend Development Internships
+- 🌱 I’m currently learning Blockchain Development
+- 💞️ I’m looking to collaborate on Blockchain Development Internships
 - 📫 How to reach me: Email: v.nayek1999@gmail.com & LinkedIn: www.linkedin.com/in/vishal-nayek-41ba18190
 
 <!---
