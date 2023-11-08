@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @VishalNayek
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning Blockchain Development
-- 💞️ I’m looking to collaborate on Frontend and Blockchain Development Internships
-- 📫 How to reach me: Email: v.nayek1999@gmail.com & LinkedIn: www.linkedin.com/in/vishal-nayek-41ba18190
+- 🌱 I’m currently working as a Salesforce Developer
+- 👀 I’m looking to collaborate on Salesforce, Frontend and Software Engineering roles
+- 📫 How to reach me: Email: nayek.work@gmail.com & LinkedIn: www.linkedin.com/in/vishal-nayek-41ba18190
 
 <!---
 VishalNayek/VishalNayek is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
